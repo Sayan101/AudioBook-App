@@ -1,0 +1,6 @@
+This is a desktop based application which will read out PDFs. There should be no
+on the internet for any of its functionality. It should be a standalone application.
+A GUI would be needed for a smoother user experience.
+There should be option to select the PDF/ book to hear.
+The user should be able to pause / play and stop hearing the books.
+There should be option to select or skip to a specific page in the book.
