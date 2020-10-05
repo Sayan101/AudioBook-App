@@ -1,0 +1,7 @@
+High Level Goals.
+  1. User should be able to select the PDF(book) he wants to read.
+  2. User should be able to pause/ start the audio.
+  3. User should be able to skip to a specific page in the PDF(book).
+  4. The application should run standalone , an executable file should be there
+     which will start the application , the script should not start manually.
+  5. A nice GUI for better user experience.
